@@ -1,7 +1,7 @@
-- 👋 Ola! eu me chamo Alex Silva
+- 👋 Ola! eu me chamo Alex Dos Santos Silva
 - 👀 Sempre interresado em desafios.
-- 🌱 Fazendo curso de UX/UI Design e Front-End.
-- 🖥️ HTML, CSS,JAVASCRIPT,BOOTSTRAP.
+- 🌱 Cursando UX/UI Design e Front-End.
+- 🖥️ HTML, CSS, JAVASCRIPT, BOOTSTRAP.
 - ⌛ Professor de História.
 - 📫 Contrate-me
 
